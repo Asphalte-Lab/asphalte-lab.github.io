@@ -17,6 +17,11 @@ padding: 0;
 
 }
 
+.bgvideo {
+   top: -55px;
+
+}
+
 header{
     width: 98%;
     text-align: left;
@@ -32,7 +37,7 @@ header{
 .underconstruc {
     font-size: 1.5em ;
 
-
+    top:60%;
     width: 80%; 
     left: 10%;
 
@@ -40,7 +45,7 @@ header{
 
 .chantier
 {
-    font-size: 2.5em ;
+    font-size: 2.3em ;
     line-height: 1.4em;
 
 } 
